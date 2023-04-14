@@ -1,4 +1,4 @@
-## The Impact of Winning Faceoffs on Expected Goals (xG) in Power plays: An Analysis of 2020-2021 SHL Season Data
+## The Impact of Winning Faceoffs on Expected Goals (xG) in Power Plays: An Analysis of 2020-2021 SHL Season Data
 
 <p>
     <img src="https://www.fotoinorr.com/img-get/I0000z5BmzB4CXYs/s/1200/I0000z5BmzB4CXYs.jpg" width="700" alt>
